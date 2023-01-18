@@ -16,6 +16,7 @@ public class Week2lab {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        System.out.println("This is Week 2 lab");
     }
     
 }
